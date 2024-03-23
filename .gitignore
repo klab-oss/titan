@@ -1,4 +1,5 @@
 *.o
 titan
 TAGS
+*.swp
 *.geany
